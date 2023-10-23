@@ -15,13 +15,13 @@ Como Usar
 3. Execute o aplicativo digitando:
 
    ```
-   python nome_do_arquivo.py
+   python To-D9_cli.py
    ```
 
 4. Você verá um menu de opções:
 
    ```
-          ##############                            #########
+ ##############                            #########
            ##          ###########             ##       ##      ###########
           ##         ##         ##            ##        ##    ##         ##
          ##         ##         ##   ######   ##        ##    ##         ##
