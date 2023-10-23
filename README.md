@@ -15,13 +15,13 @@ Como Usar
 3. Execute o aplicativo digitando:
 
    ```
-   python To-D9_cli.py
+   python To_Do_cli.py
    ```
 
 4. Você verá um menu de opções:
 
    ```
- ##############                            #########
+          ##############                            #########
            ##          ###########             ##       ##      ###########
           ##         ##         ##            ##        ##    ##         ##
          ##         ##         ##   ######   ##        ##    ##         ##
@@ -41,10 +41,14 @@ Como Usar
 
 6. Suas tarefas serão salvas no arquivo `tarefas.txt`.
 
-Contribuições
+## Contribuições
 
 Sinta-se à vontade para contribuir para este projeto, abrindo issues e pull requests.
 
-Licença
+## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+---
+
+Este é um exemplo simples de um arquivo README. Você pode personalizá-lo de acordo com as necessidades do seu projeto e adicionar mais informações relevantes, como detalhes de uso, capturas de tela, requisitos adicionais e assim por diante. Certifique-se de incluir as informações necessárias para que outras pessoas possam usar e contribuir para o seu projeto.
